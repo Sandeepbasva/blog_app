@@ -127,3 +127,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+*.pyc
+*.pyo
+*.db
+*.swp
+.project
+.pydevproject
+.settings
+reports/
+*.bkp
+*.tar.gz
+*.tar.bz2
+staticgen
+.idea
